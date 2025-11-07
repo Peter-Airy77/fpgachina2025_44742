@@ -1,0 +1,21 @@
+# 机械臂触碰报警系统 - Python依赖库
+# 安装命令: pip install -r requirements_touch_alert_1.txt
+
+# 数值计算
+numpy>=1.19.0
+
+# 数据可视化
+matplotlib>=3.3.0
+
+# 科学计算（用于信号处理和滤波）
+scipy>=1.5.0
+
+# 串口通信
+pyserial>=3.4
+
+# 图像处理（用于参考图片）
+Pillow>=8.0.0
+
+# HDF5文件支持（如果需要保存数据）
+h5py>=2.10.0
+
